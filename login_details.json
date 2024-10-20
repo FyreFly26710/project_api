@@ -2,28 +2,28 @@
   "users": [
     {
       "userId": 1,
-      "username": "john_doe",
-      "password": "password123"
+      "username": "TestAdmin",
+      "password": "testadmin"
     },
     {
       "userId": 2,
-      "username": "jane_smith",
-      "password": "securePass456"
+      "username": "TestUser",
+      "password": "testuser"
     },
     {
       "userId": 3,
-      "username": "michael_brown",
-      "password": "mike789Password"
+      "username": "TestEditor",
+      "password": "testeditor"
     },
     {
       "userId": 4,
-      "username": "linda_white",
-      "password": "LindaSecure@987"
+      "username": "Test1",
+      "password": "test1"
     },
     {
       "userId": 5,
-      "username": "alex_jones",
-      "password": "alex2023$"
+      "username": "Test2",
+      "password": "test2"
     }
   ]
 }
