@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "username": "john_doe",
+      "password": "password123"
+    },
+    {
+      "userId": 2,
+      "username": "jane_smith",
+      "password": "securePass456"
+    },
+    {
+      "userId": 3,
+      "username": "michael_brown",
+      "password": "mike789Password"
+    },
+    {
+      "userId": 4,
+      "username": "linda_white",
+      "password": "LindaSecure@987"
+    },
+    {
+      "userId": 5,
+      "username": "alex_jones",
+      "password": "alex2023$"
+    }
+  ]
+}
