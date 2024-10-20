@@ -1,29 +1,29 @@
 {
-  "users": [
+  "Users": [
     {
-      "userId": 1,
-      "username": "TestAdmin",
-      "password": "testadmin"
+      "UserId": 1,
+      "Username": "TestAdmin",
+      "Password": "testadmin"
     },
     {
-      "userId": 2,
-      "username": "TestUser",
-      "password": "testuser"
+      "UserId": 2,
+      "Username": "TestUser",
+      "Password": "testuser"
     },
     {
-      "userId": 3,
-      "username": "TestEditor",
-      "password": "testeditor"
+      "UserId": 3,
+      "Username": "TestEditor",
+      "Password": "testeditor"
     },
     {
-      "userId": 4,
-      "username": "Test1",
-      "password": "test1"
+      "UserId": 4,
+      "Username": "Test1",
+      "Password": "test1"
     },
     {
-      "userId": 5,
-      "username": "Test2",
-      "password": "test2"
+      "UserId": 5,
+      "Username": "Test2",
+      "Password": "test2"
     }
   ]
 }
