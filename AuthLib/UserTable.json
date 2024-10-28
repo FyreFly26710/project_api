@@ -1,0 +1,72 @@
+[
+    {
+        "UserId": 1,
+        "UserName": "Alice Johnson",
+        "RoleId": 1,
+        "DepartmentId": 1,
+        "UserGuid": "a24c8572-776b-4d0e-bd6b-0f215f6c9d99"
+    },
+    {
+        "UserId": 2,
+        "UserName": "Bob Smith",
+        "RoleId": 1,
+        "DepartmentId": 2,
+        "UserGuid": "b63a98e1-02bc-4b99-8d5a-86d27c7c5948"
+    },
+    {
+        "UserId": 3,
+        "UserName": "Charlie Brown",
+        "RoleId": 3,
+        "DepartmentId": 1,
+        "UserGuid": "f5a54bbf-5cb5-47ff-8b6c-5673b47e21f3"
+    },
+    {
+        "UserId": 4,
+        "UserName": "Diana Prince",
+        "RoleId": 4,
+        "DepartmentId": 3,
+        "UserGuid": "c9a02102-26fc-470f-bd56-1df67b0128e3"
+    },
+    {
+        "UserId": 5,
+        "UserName": "Ethan Hunt",
+        "RoleId": 2,
+        "DepartmentId": 2,
+        "UserGuid": "d6e2dabc-b8e7-43a1-b8a8-d2e71c3b2226"
+    },
+    {
+        "UserId": 6,
+        "UserName": "Fiona Gallagher",
+        "RoleId": 3,
+        "DepartmentId": 3,
+        "UserGuid": "e82d2e26-65e1-4e8d-8261-0e62a3c0089e"
+    },
+    {
+        "UserId": 7,
+        "UserName": "George Jetson",
+        "RoleId": 3,
+        "DepartmentId": 1,
+        "UserGuid": "f30f17cf-b5b7-4978-b2b5-45f9f493ff76"
+    },
+    {
+        "UserId": 8,
+        "UserName": "Hannah Montana",
+        "RoleId": 4,
+        "DepartmentId": 2,
+        "UserGuid": "a5f88b95-e74f-4d75-b0bc-2c8f7da51cc8"
+    },
+    {
+        "UserId": 9,
+        "UserName": "Ian Malcolm",
+        "RoleId": 2,
+        "DepartmentId": 3,
+        "UserGuid": "dcff28a2-3343-44a7-a774-788d0534acb1"
+    },
+    {
+        "UserId": 10,
+        "UserName": "Jane Doe",
+        "RoleId": 2,
+        "DepartmentId": 1,
+        "UserGuid": "08a1dc79-4f8f-4c58-8c67-8b289dbda00f"
+    }
+]
